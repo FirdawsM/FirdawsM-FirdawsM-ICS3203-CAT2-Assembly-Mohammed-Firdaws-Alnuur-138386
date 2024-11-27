@@ -111,13 +111,3 @@ Subroutine Management
 
 ## Git Clone and Setup
 To get started with this project, clone the repository:
-
-```sh
-git clone https://github.com/FirdawsM/FirdawsM-FirdawsM-ICS3203-CAT2-Assembly-Mohammed-Firdaws-Alnuur-138386.git
-```
-
-```sh
-
-cd FirdawsM-FirdawsM-ICS3203-CAT2-Assembly-Mohammed-Firdaws-Alnuur-138386
-
-```
