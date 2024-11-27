@@ -109,5 +109,3 @@ WSL 1 does not support running ELF binaries natively, resulting in the "Exec for
 A recurring challenge was ensuring that the output was printed correctly, especially for sensor values and control statuses (e.g., motor or alarm states). The print_hex and print_newline functions had to be adjusted to ensure proper formatting and clarity in the output.
 Subroutine Management 
 
-## Git Clone and Setup
-To get started with this project, clone the repository:
